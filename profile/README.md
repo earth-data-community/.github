@@ -4,23 +4,19 @@
 
 *Research softwares, tools, and documentations for the full Earth System — atmosphere, ocean, land, ice, and biosphere — accessible across platforms and aligned with FAIR principles.*
  
-**Objective**: Federate Earth System research software and tools across Europe, ensuring interoperability between platforms and communities.
+**Objective**: Federate Earth System research softwares, tools, and documentations across Europe, ensuring interoperability between platforms and communities.
 
 ---
 
 ## 🌍 About Us
 
+The Earth Data Community brings together researchers, research infrastructures, and software developers working across Earth System Science.
 This initiative aims to:
 
 - **Federate Earth System tools and catalogs**.
 - **Improve interoperability** of research software across Virtual Research Environments (VREs), platforms and research infrastructures.
 - **Create a governance** for tool repositories, reviews, and merges.
-- **Develop european collaborations** to foster cross-domain work.
-
----
-
-
-- **Federate tools and catalogs** across environmental domains.
+- **Develop european collaborations** to foster cross-domain work across scientific environmental related disciplines and research infractures.
 - **Share practices** for Research Software development, sustainability, citation, and reuse.
 - **And more along the way** — shaped by the community as this initiative grows.
 
