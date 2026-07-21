@@ -55,7 +55,7 @@ This initiative builds on the work of communities and research infrastructures, 
 
 In particular, we recognize:
 
-- **[Data Terra](https://www.data-terra.org/)** research infrastructure — for its work in earth system data, open science, and dynamic communities accros it's five thematic hubs (Odatis, Pndb, Theia, Formater, and Aeris).
+- **[Data Terra](https://www.data-terra.org/)** research infrastructure — for its work in earth system data, open science, and dynamic communities accros it's five thematic hubs (AERIS, FORMATER, ODATIS, PNDB, and THEIA).
 - **[LifeWatch ERIC](https://www.lifewatch.eu/)** — the European e-Science infrastructure for biodiversity and ecosystem research, providing virtual labs, services, and a thriving community across the biodiversity domain.
 
 Their expertise in **data interoperability**, **FAIR principles**, **community-driven research**, and **research software sustainability** has been instrumental in shaping this initiative — and remains central to its future.
