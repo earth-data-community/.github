@@ -1,63 +1,67 @@
-# Earth System & Climate Tools
+# Earth Data community
 
-**Objective**: Organize and federate Earth System and Climate tools while ensuring interoperability between platforms and communities.
+## Earth System Research Software & Tools
+
+*Research softwares, tools, and documentations for the full Earth System — atmosphere, ocean, land, ice, and biosphere — accessible across platforms and aligned with FAIR principles.*
+ 
+**Objective**: Federate Earth System research softwares, tools, and documentations across Europe, ensuring interoperability between platforms and communities.
 
 ---
 
 ## 🌍 About Us
 
+The Earth Data Community brings together researchers, research infrastructures, and software developers working across Earth System Science.
 This initiative aims to:
 
-- **Centralize** Earth System and Climate tools.
-- **Improve interoperability** between Virtual Researh Environments (VREs).
-- **Create a unified governance** for tool repositories, reviews, and merges.
-- **Develop a cross-EOSC node organization** to align with European Open Science Cloud (EOSC) standards.
-- **Build a community-driven catalog** of tools, inspired by [bio.tools](https://bio.tools/), but tailored for Earth System and Climate sciences.
+- **Federate Earth System tools and catalogs**.
+- **Improve interoperability** of research software across Virtual Research Environments (VREs), platforms and research infrastructures.
+- **Create a governance** for tool repositories, reviews, and merges.
+- **Develop european collaborations** to foster cross-domain work across scientific environmental related disciplines and research infractures.
+- **Share practices** for Research Software development, sustainability, citation, and reuse.
+- **And more along the way** — shaped by the community as this initiative grows.
 
 ---
 
-## Where to find us
+## 💬 Where to find us
 
-To reach out to us please join https://matrix.to/#/#galaxyproject\_earth-climate-ecology-sciences:matrix.org
-This chat is supported by:
+### For Galaxy questions
+Join us on Matrix: [#galaxyproject_earth-climate-ecology-sciences:matrix.org](https://matrix.to/#/#galaxyproject_earth-climate-ecology-sciences:matrix.org)
 
-- Anne – Climate
-- Yvan – Ecology, for tools and resources related to ecology, visit our [tools-ecology repository](https://github.com/galaxyecology/tools-ecology).
-- Marie – Earth system science
-
-Together, we aim to help users and developers with questions, ideas, and challenges related to modeling, processes, and interdisciplinary topics.
+Together, we help users and developers with questions, ideas, and challenges around modeling, data, processes, software engineering, and cross-disciplinary topics.
 
 ---
 
 ## 🤝 How to Contribute
 
-1. **Contact us**: Join the [matrix room](https://matrix.to/#/#galaxyproject\_earth-climate-ecology-sciences:matrix.org)
-2. **Join the Discussion**: Open an issue in the [earth-data-community](https://github.com/earth-data-community) repo.
-3. **Propose Tools**: Submit a PR to add your tool to the catalog.
-4. **Review & Merge**: Follow the governance guidelines (TBD).
+1. **Join the discussion** — open an issue in the [earth-data-community](https://github.com/earth-data-community) repository.
+2. **Propose tools** — submit a PR to add your software to the catalog, following our metadata and quality guidelines.
+3. **Review & merge** — follow the governance guidelines (TBD).
+4. **Share best practices** — contribute to our guides on research software sustainability, citation, packaging, testing, and reproducibility.
+
+### For Galaxy questions
+1. **Reach out** — join the Galaxy [Matrix room](https://matrix.to/#/#galaxyproject_earth-climate-ecology-sciences:matrix.org).
 
 ---
 
 ## Vision
 
-> *"A federated, interoperable ecosystem for Earth System and Climate tools, accessible across platforms and aligned with FAIR principles."*
+> *"A federated, interoperable ecosystem for Earth System Software & tools, accessible across platforms and aligned with FAIR principles."*
+
+---
 
 ## 🙏 Acknowledgments
 
-We extend our sincere gratitude to **[Data Terra](https://www.data-terra.org/)** for their invaluable support in advancing this initiative. Data Terra’s commitment to **Earth System data infrastructure** and **open science** has been instrumental in shaping the vision and execution of this project.
+This initiative builds on the work of communities and research infrastructures, that have championed open science and sustainable research software in environmental sciences. We are grateful for their leadership and ongoing collaboration.
 
-Their expertise in **data interoperability**, **FAIR principles**, and **community-driven research** has directly contributed to our efforts to:
+In particular, we recognize:
 
-- Federate Earth System and Climate tools across platforms.
-- Align with **EOSC** (European Open Science Cloud) standards.
-- Promote **cross-disciplinary collaboration** in environmental sciences.
+- **[Data Terra](https://www.data-terra.org/)** research infrastructure — for its work in earth system data, open science, and dynamic communities accros it's five thematic hubs (AERIS, FORMATER, ODATIS, PNDB, and THEIA).
+- **[LifeWatch ERIC](https://www.lifewatch.eu/)** — the European e-Science infrastructure for biodiversity and ecosystem research, providing virtual labs, services, and a thriving community across the biodiversity domain.
 
-This work would not have been possible without Data Terra’s leadership in fostering a **sustainable and interconnected data ecosystem**.
+Their expertise in **data interoperability**, **FAIR principles**, **community-driven research**, and **research software sustainability** has been instrumental in shaping this initiative — and remains central to its future.
 
 ---
 
 ### Supported by
 <img src="logos/dataterra.png" alt="Data Terra" width="120" style="display: inline-block; margin: 0 15px; vertical-align: middle;" />
 <img src="logos/lifewatch.jpg" alt="LifeWatch ERIC" width="120" style="display: inline-block; margin: 0 15px; vertical-align: middle;" />
-<img src="logos/eosc_dt.png" alt="EOSC Node Data Terra" width="120" style="display: inline-block; margin: 0 15px; vertical-align: middle;" />
-
